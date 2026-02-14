@@ -67,7 +67,7 @@ setup(
         "xmltodict",
         "pyzmq",
         "digitalpy>=0.3.13.7",
-        "opentelemetry-sdk",
+        "opentelemetry-sdk==1.20.0",
         "PyJWT"
     ],
     extras_require={
